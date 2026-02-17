@@ -51,5 +51,14 @@ The optimal μ is found under different cost conditions:
 
 
 
-## 📁 Repository Structure
+## 👨‍💻 Author
+
+**Amitis Mirabedini**  
+Electrical Engineering Student  
+Sharif University of Technology  
+
+This project was developed as part of the **Engineering Probability and Statistics** course in the Electrical Engineering Department at Sharif University of Technology.
+
+The project focuses on stochastic modeling, queueing theory, and simulation of edge computing systems using Python.
+
 
